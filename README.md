@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Aiden, and welcome to my Github!
-Check out my [portfolio!](aidenwotton@gmail.com)
+Check out my [portfolio!](https://aidenwotton.com)
 
 <!--
 **a-wotton/a-wotton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
